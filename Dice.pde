@@ -84,6 +84,7 @@ class Die //models one single dice cube
 			System.out.println(sum);
 			fill(0);
 			text(sum,400,760);
+			fill((int)(Math.random()*256),(int)(Math.random()*256),(int)(Math.random()*256));
 		}
 	}
 
