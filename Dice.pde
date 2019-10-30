@@ -38,7 +38,7 @@ void mousePressed()
 {
 	sum = 0;
 	fill(255,255,255);
-	rect(480,740, 50, 50);
+	rect(481,740, 50, 50);
 	redraw();
 
 }
